@@ -13,6 +13,7 @@ uggestions about fixing errors or adding papers, repositories and other resource
 ## Toolkits & Frameworks
 - [Marian](https://github.com/marian-nmt/marian) - Fast NMT Framework in C++
 - [Neutron](https://github.com/anoidgit/transformer) - A PyTorch Implementation of the Transformer Translation Models
+- [NiuTrans](http://www.niutrans.com/niutrans/NiuTrans.ch.html) - A statistical machine translation toolkits
 - [OpenNMT](http://opennmt.net/) - Open Source Neuram Machine Translation System
   - [PyTorch Version](https://github.com/OpenNMT/OpenNMT-py)
   - [TensorFlow Version](https://github.com/OpenNMT/OpenNMT-tf)
@@ -20,3 +21,6 @@ uggestions about fixing errors or adding papers, repositories and other resource
 - [THUMT](https://github.com/THUNLP-MT/THUMT)
   - [PyTorch Version](https://github.com/THUNLP-MT/THUMT/tree/pytorch)
 - [Translate](https://github.com/pytorch/translate) - A NMT Library relies on fairseq
+
+## Other resources
+- [THUNLP-MT/MTPapers]https://github.com/THUNLP-MT/MT-Reading-List)
