@@ -23,4 +23,4 @@ uggestions about fixing errors or adding papers, repositories and other resource
 - [Translate](https://github.com/pytorch/translate) - A NMT Library relies on fairseq
 
 ## Other resources
-- [THUNLP-MT/MTPapers]https://github.com/THUNLP-MT/MT-Reading-List)
+- [THUNLP-MT/MTPapers](https://github.com/THUNLP-MT/MT-Reading-List)
